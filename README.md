@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Tobias
 
-[![TRueedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRueedi&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRueedi&theme=radical)]
+![TRueedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRueedi&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRueedi&theme=radical)
